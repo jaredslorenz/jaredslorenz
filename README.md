@@ -58,11 +58,15 @@
 
 ## Experience
 
-**AI Training Fellow** · Handshake AI Fellowship · Remote · May 2026 – Present  
-Developed golden solution implementations and fail-to-pass test suites for software engineering benchmark tasks used to evaluate frontier AI models. Navigated unfamiliar production codebases across Python and ML frameworks. Configured Docker environments and GitHub Actions CI pipelines.
+**SWE AI Trainer** · Handshake AI Fellowship · Remote · May 2026 – Present  
+• Evaluated the communication quality of 100+ frontier AI model outputs using structured rubrics across tone and instruction-following, while reviewing peer-submitted evaluations for evidentiary accuracy and rubric calibration
+• Developed reference implementations and fail-to-pass test suites for SWE benchmarks, evaluating frontier AI models
+• Navigated unfamiliar Python and ML codebases to implement and validate complex fixes; configured Docker and GitHub Actions CI pipelines for automated test validation
 
-**AI Extern** · Pfizer x Extern · Remote · June 2026 – Present  
-Building an AI-powered document intelligence system using OCR pipelines (Tesseract, PaddleOCR, PyMuPDF) and RAG (LlamaIndex, FAISS) for pharmaceutical document automation. Final deliverable: a Gradio-based chatbot for real-time document querying.
+**Supply Chain Document Processing Extern - Pfizer** · Extern · Remote · June 2026 – Present  
+• Engineered an end-to-end document intelligence pipeline combining OCR (Tesseract, PaddleOCR, EasyOCR), RAG (LlamaIndex, embeddings), and OpenAI to automate extraction and semantic Q&A over pharmaceutical documents
+• Benchmarked three OCR engines and embedding models (MiniLM, BGE, E5), tuning retrieval parameters and deploying a Gradio chatbot with source citations, confidence scoring, and chat history export
+• Built an LLM-based page segmentation and metadata routing system that classifies document boundaries and filters vector retrieval by document type, reducing noise and improving retrieval precision
 
 ---
 
